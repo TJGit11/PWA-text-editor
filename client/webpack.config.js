@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: "./index.html",
-        title: "Contact Cards",
+        title: "Jate",
       }),
 
       // Injects our custom service worker
@@ -35,7 +35,7 @@ module.exports = () => {
         inject: true,
         name: "Jate",
         short_name: "Jate",
-        description: "Never forget your jate!",
+        description: "Never forget your Jate!",
         background_color: "#225ca3",
         theme_color: "#225ca3",
         start_url: "./",
