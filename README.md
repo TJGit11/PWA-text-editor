@@ -2,7 +2,7 @@
 
 ## Project Description
 This project demonstrates a text-editor that runs in the browser and meets PWA criteria.<br/>
-[Check out the link to the demo video here](https://shrouded-escarpment-51121.herokuapp.com/)
+[Check out the link to the deployed app here](https://shrouded-escarpment-51121.herokuapp.com/)
 
 
 ## Table of Contents
