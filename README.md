@@ -1,15 +1,14 @@
 # PWA-text-editor
 
-## Project Description
-This project demonstrates a text-editor that runs in the browser and meets PWA criteria.<br/>
-[Check out the link to the deployed app here](https://shrouded-escarpment-51121.herokuapp.com/)
-
-
 ## Table of Contents
 - [Project Description](#project-description)
 - [Installation](#installation)
 - [Tests](#tests)
 - [Questions](#questions)
+
+## Project Description
+This project demonstrates a text-editor that runs in the browser and meets PWA criteria.<br/>
+[Check out the link to the deployed app here](https://shrouded-escarpment-51121.herokuapp.com/)
 
 ## Tests
 
